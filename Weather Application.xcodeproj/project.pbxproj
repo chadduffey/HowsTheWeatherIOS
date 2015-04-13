@@ -13,6 +13,7 @@
 		155C1CFF1AD73E7A0053E791 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 155C1CFE1AD73E7A0053E791 /* Images.xcassets */; };
 		155C1D021AD73E7A0053E791 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 155C1D001AD73E7A0053E791 /* LaunchScreen.xib */; };
 		155C1D0E1AD73E7A0053E791 /* Weather_ApplicationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 155C1D0D1AD73E7A0053E791 /* Weather_ApplicationTests.swift */; };
+		155C1D181AD73F650053E791 /* weather.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 155C1D171AD73F650053E791 /* weather.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		155C1D071AD73E7A0053E791 /* Weather ApplicationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Weather ApplicationTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		155C1D0C1AD73E7A0053E791 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		155C1D0D1AD73E7A0053E791 /* Weather_ApplicationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather_ApplicationTests.swift; sourceTree = "<group>"; };
+		155C1D171AD73F650053E791 /* weather.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = weather.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		155C1CF41AD73E7A0053E791 /* Weather Application */ = {
 			isa = PBXGroup;
 			children = (
+				155C1D171AD73F650053E791 /* weather.jpg */,
 				155C1CF71AD73E7A0053E791 /* AppDelegate.swift */,
 				155C1CF91AD73E7A0053E791 /* ViewController.swift */,
 				155C1CFB1AD73E7A0053E791 /* Main.storyboard */,
@@ -194,6 +197,7 @@
 			files = (
 				155C1CFD1AD73E7A0053E791 /* Main.storyboard in Resources */,
 				155C1D021AD73E7A0053E791 /* LaunchScreen.xib in Resources */,
+				155C1D181AD73F650053E791 /* weather.jpg in Resources */,
 				155C1CFF1AD73E7A0053E791 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
